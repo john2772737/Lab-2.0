@@ -12,7 +12,7 @@ class MainWindow(tk.Tk):
         self.geometry("1200x650")
 
         self.frames = {}
-        selffsfsdfsdfsdfs
+        selffsfsdfsdfsdfsdhfjsdhf
         self.frames['namepicker'] = NamePicker(self)
         self.frames['grouppicker'] = GroupPicker(self)
         self.frames['login']= Login(self)
